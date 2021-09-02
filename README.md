@@ -1,4 +1,4 @@
-# Qwitter (qwitter)
+# Qwitter (Twitter Clone)
 
 A Quasar Framework app
 
